@@ -1,6 +1,6 @@
 package api.voll.med.api.controller;
 
-import api.voll.med.api.medico.*;
+import api.voll.med.api.domain.medico.*;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

@@ -1,6 +1,6 @@
-package api.voll.med.api.medico;
+package api.voll.med.api.domain.medico;
 
-import api.voll.med.api.endereco.Endereco;
+import api.voll.med.api.domain.endereco.Endereco;
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

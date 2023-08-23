@@ -1,4 +1,4 @@
-package api.voll.med.api.paciente;
+package api.voll.med.api.domain.paciente;
 
 public record DadosCadastroPaciente(String nome) {
 }
